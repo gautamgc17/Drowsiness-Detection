@@ -1,4 +1,5 @@
 # WorkFlow of Drowsiness Detection
+The drowsiness detection workflow involves capturing real-time video, preprocessing frames to extract eye features, and analyzing eye aspect ratio (EAR) or blinking patterns to detect drowsiness. When prolonged eye closure is detected, an alert is triggered to ensure safety.
 
 ![image](https://user-images.githubusercontent.com/71714942/120671624-31dfbf00-c4af-11eb-8ceb-4a612de2fa80.png)
 
